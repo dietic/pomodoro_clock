@@ -1,4 +1,5 @@
 # **Pomodoro clock**
-Helps when trying to use the ***Pomodoro technique*** when studying.
 
-***In progress...***
+Helps when using the **_Pomodoro technique_** when studying.
+
+**_In progress..._**
